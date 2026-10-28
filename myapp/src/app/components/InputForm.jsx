@@ -12,7 +12,7 @@ export default function InputForm() {
 			</h2>
 			<form id='signupForm'>
 				<div>
-					<label for='username'>Username:</label>
+					<label htmlFor='username'>Username:</label>
 					<input
 						type='text'
 						id='username'
@@ -22,7 +22,7 @@ export default function InputForm() {
 				</div>
 
 				<div>
-					<label for='email'>Email:</label>
+					<label htmlFor='email'>Email:</label>
 					<input
 						type='email'
 						id='email'
