@@ -18,7 +18,7 @@ export default function DropDownComponent(){
         
         >
 
-            <label for="menu">Dropdown</label>
+            <label htmlFor="menu">Dropdown</label>
             <select id="menu1" name="options">
                 <option value="option1">Option 1</option>
                 <option value="option2">Option 2</option>
