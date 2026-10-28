@@ -1,11 +1,17 @@
 import DropDownComponent from "./components/DropDown";
 import ProgressBar from "./components/ProgressBar";
+import Table from "./components/Table";
+import InputForm from "./components/InputForm.jsx";
+import Button from "./components/Button.jsx";
 
 export default function Home() {
-  return (
-    <div>
-      <DropDownComponent />
-      <ProgressBar />
-    </div>
-  );
+    return (
+        <div>
+            <DropDownComponent />
+            <ProgressBar />
+            <InputForm />
+            <Button />
+            <Table />
+        </div>
+    );
 }
