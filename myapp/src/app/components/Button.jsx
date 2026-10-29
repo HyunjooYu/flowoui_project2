@@ -12,7 +12,7 @@ export default function Button() {
 				cursor: "pointer",
 				fontSize: "16px",
 				padding: "10px 20px",
-				margin: "20px 20px",
+				margin: "20px",
 			}}
 		>
 			Click Me
