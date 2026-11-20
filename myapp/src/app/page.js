@@ -1,10 +1,10 @@
-import DropDownComponent from "./components/DropDown";
-import ProgressBar from "./components/ProgressBar";
-import Table from "./components/Table";
-import InputForm from "./components/InputForm.jsx";
-import Button from "./components/Button.jsx";
-import NavBar from "./components/NavBar";
-import TopNavBar from "./components/TopNavBar";
+import DropDownComponent from "./components/ui/DropDown";
+import ProgressBar from "./components/ui/ProgressBar";
+import Table from "./components/ui/Table";
+import InputForm from "./components/ui/InputForm.jsx";
+import Button from "./components/ui/Button.jsx";
+import NavBar from "./components/ui/NavBar";
+import TopNavBar from "./components/ui/TopNavBar";
 export default function Home() {
     return (
         <div>
